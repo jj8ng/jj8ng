@@ -10,3 +10,4 @@ Currently working as an undergraduate researcher working on hardware-aware AI �
 
 You can find me here!<br>
 📫 [gloody@ewha.ac.kr](mailto:gloody@ewha.ac.kr)
+🖥️ [jj8ng.github.io](https://jj8ng.github.io/)
