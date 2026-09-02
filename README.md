@@ -1,7 +1,8 @@
 ### Hi, I'm Shanga Choi :)
 ##### aka Hannah Choi
 
-B.S. Computer Science (Minor: AI), Ewha Womans University, Seoul. 
-Undergraduate researcher working on hardware-aware AI — model pruning/quantization for edge deployment and on-device LLM power efficiency.
+I'm majoring Computer Science and also minoring AI in Ewha Womans University, Seoul. 
+Currently working as an undergraduate researcher working on hardware-aware AI — model pruning/quantization for edge deployment and on-device LLM power efficiency.
 
+You can find me here!
 📫 gloody@ewha.ac.kr
