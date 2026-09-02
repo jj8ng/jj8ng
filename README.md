@@ -1,4 +1,4 @@
-### Hi, I'm Shanga Choi :)
+### Hi, I'm Shanga Choi
 ##### aka Hannah Choi
 
 I'm majoring Computer Science and also minoring AI in Ewha Womans University, Seoul. <br>
